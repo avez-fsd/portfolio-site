@@ -1,1 +1,1 @@
-color: #eebd63
+color: #F3CA52
